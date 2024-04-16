@@ -29,3 +29,15 @@
 .small {
   font-size: 0.75rem;
 }
+
+.buzzer {
+  color :white;
+  background-color: #ff0000;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 100px;
+  width:  500px;
+  height: 500px;
+  text-align: center;
+  vertical-align: middle;
+  border-radius:  80%;;
+}
